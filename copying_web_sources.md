@@ -55,7 +55,7 @@ import os
 import base64
 
 # Load HAR file
-with open("nepalytix.com.har", "r", encoding="utf-8") as f:
+with open("filename.har", "r", encoding="utf-8") as f:
     har = json.load(f)
 
 output_dir = "extracted_js"
