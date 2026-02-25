@@ -10,7 +10,7 @@
 ## Step 1: Open DevTools Network Tab
 
 1. Open **Google Chrome**
-2. Navigate to your target website (e.g., `nepalytix.com`)
+2. Navigate to your target website (e.g., `filename.com`)
 3. Press `F12` or `Ctrl + Shift + I` (Windows/Linux) or `Cmd + Option + I` (Mac)
 4. Click the **"Network"** tab
 
@@ -42,7 +42,7 @@
 
    Click the **⬇ Export HAR** icon in the Network panel toolbar
 
-3. Save the file as `nepalytix.com.har`
+3. Save the file as `filename.com.har`
 4. Place it in the **same folder** as your Python script
 
 ---
